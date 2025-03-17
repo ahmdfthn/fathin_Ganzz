@@ -1,0 +1,11 @@
+p {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+    background-image: url("./kaabah.webp"); 
+    background-repeat: no-repeat;
+    background-size: cover;
